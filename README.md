@@ -462,7 +462,6 @@ The application features:
 ## 📚 Learning Resources
 
 This project demonstrates:
-
 - **E-commerce Patterns**: Common e-commerce functionality
 - **State Management**: Complex state management scenarios
 - **API Integration**: REST API best practices
@@ -470,34 +469,7 @@ This project demonstrates:
 - **Performance**: Optimization techniques for large datasets
 - **Architecture**: Scalable application architecture
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
-
-### Development Guidelines
-
-- **Code Style**: Follow project coding standards
-- **Component Structure**: Maintain component best practices
-- **Documentation**: Update documentation as needed
-- **Testing**: Ensure test coverage
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🙋‍♂️ Support
-
-For questions or support:
-
-- Create an issue in the repository
-- Check the documentation
-- Review the code comments
-- Explore the API documentation at [DummyJSON](https://dummyjson.com/)
-
 ---
 
 **DummyStore** - A modern e-commerce application showcasing best practices in web development, shopping cart implementation, and user experience design across multiple frameworks.
+
