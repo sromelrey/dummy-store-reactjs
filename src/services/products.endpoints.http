@@ -1,0 +1,40 @@
+
+### Get all Products
+GET {{API_BASE_URL}}/products
+
+---
+
+### Get Products with Pagination
+GET {{API_BASE_URL}}/products?limit=10&skip=0
+
+---
+
+### Get Single Product
+GET {{API_BASE_URL}}/products/1
+
+---
+
+### Search Products
+GET {{API_BASE_URL}}/products/search?q=phone
+
+---
+
+### Get All Categories
+GET {{API_BASE_URL}}/products/categories
+
+---
+
+### Get Products by Category
+GET {{API_BASE_URL}}/products/category/smartphones
+
+---
+
+### SEARCH & filter
+
+### Search Products (Generic)
+GET {{API_BASE_URL}}/products/search?q={{query}}
+
+---
+
+### Filter + Pagination Combined
+GET {{API_BASE_URL}}/products/category/smartphones?limit=5&skip=10
