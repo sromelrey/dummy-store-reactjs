@@ -1,0 +1,6 @@
+### Get Category List
+GET {{API_BASE_URL}}/products/categories
+ 
+
+### Get Category Products
+GET {{API_BASE_URL}}/products/category/laptops

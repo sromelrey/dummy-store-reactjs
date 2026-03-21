@@ -1,0 +1,51 @@
+### Get Cart by ID
+GET {{API_BASE_URL}}/carts/1
+
+---
+
+### Get All Carts
+GET {{API_BASE_URL}}/carts
+
+---
+
+### Get User Cart
+GET {{API_BASE_URL}}/carts/user/1
+
+---
+
+### Add to Cart
+POST {{API_BASE_URL}}/carts/add
+Content-Type: application/json
+
+{
+  "userId": 1,
+  "products": [
+    {
+      "id": 1,
+      "quantity": 2
+    }
+  ]
+}
+
+---
+
+### Update Cart
+PUT {{API_BASE_URL}}/carts/1
+Content-Type: application/json
+
+{
+  "merge": true,
+  "products": [
+    {
+      "id": 1,
+      "quantity": 3
+    }
+  ]
+}
+
+---
+
+### Delete Cart
+DELETE {{API_BASE_URL}}/carts/1
+
+---

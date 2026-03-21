@@ -156,7 +156,7 @@ npm run dev
 Create `.env.local`
 
 ```text
-API_URL=https://dummyjson.com
+API_BASE_URL=https://dummyjson.com
 ```
 
 ## 📱 Responsive Design
