@@ -8,10 +8,10 @@
 ## 🧩 1. Core Foundation
 
 - [x] Setup routing (`routes/`)
-- [ ] Create base layout (Header, Footer)
-- [ ] Setup global styles
-- [ ] Configure environment variables (`API_BASE_URL`)
-- [ ] Setup error boundary
+- [x] Create base layout (Header, Footer)
+- [x] Setup global styles
+- [x] Configure environment variables (`API_BASE_URL`)
+- [x] Setup error boundary
 
 ---
 
