@@ -17,9 +17,10 @@
 
 ## 🔌 2. API Layer (Services)
 
-- [ ] Create `services/api-client.ts`
-- [ ] Create `product.service.ts`
-- [ ] Create `cart.service.ts`
+- [x] Create `services/api-client.ts`
+- [x] Create `product.service.ts`
+- [X] Create `cart.service.ts`
+// Optional or we can do this later
 - [ ] Create `auth.service.ts`
 
 ---
