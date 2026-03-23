@@ -27,11 +27,11 @@
 
 ## 🧠 3. State Management (Store)
 
-- [ ] Setup global store (Zustand / Context)
-- [ ] Create product store
+- [x] Setup global store (Context)
+- [x] Create product store
 - [ ] Create cart store
-- [ ] Handle loading states
-- [ ] Handle error states
+- [x] Handle loading states
+- [x] Handle error states
 
 ---
 
